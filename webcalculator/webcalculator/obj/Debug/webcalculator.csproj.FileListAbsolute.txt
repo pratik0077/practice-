@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\Visual Studio 2012\Projects\webclass\webcalculator\webcalculator\bin\webcalculator.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\webclass\webcalculator\webcalculator\bin\webcalculator.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\webclass\webcalculator\webcalculator\bin\webformclass.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\webclass\webcalculator\webcalculator\bin\webformclass.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\webclass\webcalculator\webcalculator\obj\Debug\webcalculator.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\webclass\webcalculator\webcalculator\obj\Debug\webcalculator.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\webclass\webcalculator\webcalculator\obj\Debug\webcalculator.pdb
